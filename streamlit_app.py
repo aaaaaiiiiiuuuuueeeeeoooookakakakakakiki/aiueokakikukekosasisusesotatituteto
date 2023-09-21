@@ -4,7 +4,7 @@ import streamlit as sｔ
 # ページ設定（タブに表示されるタイトル、表示幅）
 st.set_page_config(page_title="タイトル", layout="wide")
 
-# タイトルを設定
+# 
 st.title('Streamlitのサンプルアプリ')
 
 # テキスト入力ボックスを作成し、ユーザーからの入力を受け取る
